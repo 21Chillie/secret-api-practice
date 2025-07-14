@@ -16,12 +16,15 @@ npm install
 ```
 
 ## 2 Run Locally
+
 ```bash
 node index.js
 ```
+
 Open your browser and paste link below:
+
 ```bash
-[node index.js](http://localhost:3000/)
+http://localhost:3000/
 ```
 
 Note: This project need Bearer token to work, please read [Secrets API](https://secrets-api.appbrewery.com) documentation how to get Bearer authentication token.
